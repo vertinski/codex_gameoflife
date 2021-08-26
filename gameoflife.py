@@ -1,4 +1,4 @@
-
+#Produced by prompting the OpenAI Codex engine. This line is not a part of the prompt.
 
 #Define a Python function which is "Conway's Game Of Life".
 #Set field size to 800x600 and cell size to 10x10. Randomize the startup cells.
